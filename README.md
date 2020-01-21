@@ -1,9 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
-<title>Page Title</title>
-</head>
-<body>
+
 
 <h1 style="background-color: DodgerBlue">This is a Heading</h1>
 <p style="color: SlateBlue">And this is a paragraph.</p>
